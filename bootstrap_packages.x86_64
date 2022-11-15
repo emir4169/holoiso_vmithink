@@ -1,5 +1,2 @@
 arch-install-scripts
 base
-open-vm-tools
-virtualbox-guest-utils
-qemu-guest-agent
