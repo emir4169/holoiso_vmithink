@@ -143,7 +143,7 @@ spectacle
 konsole
 rz608-fix-git
 open-vm-tools
-virtualbox-guest-utils
+virtualbox-guest-utils-nox
 qemu-guest-agent
 nvidia-dkms
 nvidia-utils
