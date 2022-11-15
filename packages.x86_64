@@ -143,7 +143,10 @@ dolphin
 spectacle
 konsole
 rz608-fix-git
-
+# vm crap
+open-vm-tools
+virtualbox-guest-utils
+qemu-guest-agent
 # drivers
 nvidia-dkms
 nvidia-utils
